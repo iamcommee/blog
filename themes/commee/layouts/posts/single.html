@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body>
+    {{ partial "nav-post.html" (dict "context" . "pageName" "post") }}
+    <div class="container">
+        <div class="wrap-content">
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-10 col-12">
+                    <div class="title-content title-md text-center mb-3">{{ .Title }}</div>
+                    <div class="content">{{ .Content }}</div>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </div>
+    </div>
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>
