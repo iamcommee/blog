@@ -7,7 +7,7 @@ description: "ใกล้ stable แล้ว ก็จัด Android Q beta 5 
 tags:
 ---
 
-{{< image-frame class="post-image-frame" src="images/android-q-installl.png" alt="Android Q beta 5 มาแล้ว">}}
+{{< image-frame class="post-image-frame" src="images/android-q-install.jpg" alt="Android Q beta 5 มาแล้ว">}}
 
 เมื่อคืนที่ผ่านมา ประมาณตี 1 Google ได้ปล่อย Android Q beta 5 มาให้ผู้ใช้กลุ่ม Android Beta Program ได้ลองทดสอบ
 
@@ -23,7 +23,7 @@ tags:
 
 ก็เลยทำการ Stop working มันไป รอสักพักก็กลับมาเป็นปกติแบบนิ
 
-{{< image-frame class="post-image-frame" src="images/android-q-lock-screen.png" alt="Android Q beta 5 lock screen" image-caption="Android Q beta 5 lock screen">}}
+{{< image-frame class="post-image-frame" src="images/android-q-lock-screen.jpg" alt="Android Q beta 5 lock screen" image-caption="Android Q beta 5 lock screen">}}
 
 จุดเด่นที่เห็นได้ชัดเลยในเวอร์ชั่นนี้คือ Google ย้าย Lock screen icon จากข้างล่างขึ้นไปอยู่ข้างบนเหมือนในรูป
 
@@ -33,7 +33,7 @@ tags:
 
 # Dark mode
 
-{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-1.png" alt="Android Q beta 5 dark mode" image-caption="Android Q beta 5 dark mode">}}
+{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-1.jpg" alt="Android Q beta 5 dark mode" image-caption="Android Q beta 5 dark mode">}}
 
 พอเปลี่ยนแล้วก็รู้สึกได้เลยว่า สบายตาขึ้นเยอะ ! แถมข้อดีของ Dark mode อีกอย่าง ก็คือช่วยประหยัดแบตเมื่อเราใช้จอแบบ OLED 
 
@@ -43,9 +43,9 @@ tags:
 
 ด้วยการเข้าไปที่ Settings > System > Developer options > เปิด Override force-dark แต่พอลองเปิดดูแล้วก็ได้ผลลัพธ์แบบนี้ครับ
 
-{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-2.png" alt="Android Q beta 5 facebook" image-caption="Android Q beta 5 Facebook">}}
+{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-2.jpg" alt="Android Q beta 5 facebook" image-caption="Android Q beta 5 Facebook">}}
 
-{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-3.png" alt="Android Q beta 5 instagram" image-caption="Android Q beta 5 Instagram">}}
+{{< image-frame class="post-image-frame" src="images/android-q-dark-mode-3.jpg" alt="Android Q beta 5 instagram" image-caption="Android Q beta 5 Instagram">}}
 
 จะเห็นว่า Facebook มีการมั่วสีในบางจุดซึ่งก็คงต้องรอให้ทั้ง Facebook , Google อัพเดทอีกทีครับ
 
