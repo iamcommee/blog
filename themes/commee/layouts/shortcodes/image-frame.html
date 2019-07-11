@@ -1,0 +1,4 @@
+<div class="text-center">
+<img {{ with .Get "class"}} class="{{.}}"{{ end }} {{ with .Get "src"}} src="{{.}}"{{ end }} {{ with .Get "alt"}} alt="{{.}}"{{ end }}>
+<p class="image-caption text-center">{{ with .Get "image-caption"}}{{.}}{{ end }}</p>
+</div>
