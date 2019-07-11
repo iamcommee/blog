@@ -1,4 +1,4 @@
-baseURL = "https://commee.in.th/"
+baseURL = "https://commee.netlify.com"
 languageCode = "th"
 title = "commee"
 theme = "commee"

@@ -10,7 +10,9 @@
                 <div class="col-md-1"></div>
                 <div class="col-md-10 col-12">
                     <div class="title-content title-md text-center mb-3">{{ .Title }}</div>
+                    <div class="text-center mb-3"><time>{{ .Date.Format "02 January 2006 15:04" }}</time></div>
                     <div class="content">{{ .Content }}</div>
+                    {{- partial "disqus" . -}}
                 </div>
                 <div class="col-md-1"></div>
             </div>

@@ -103,24 +103,28 @@ time {
 }
 
 blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 0 1.5em 0;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
-}
-
-blockquote:before {
-    color: #ccc;
-    content: open-quote;
-    font-size: 4em;
-    line-height: 0.1em;
-    vertical-align: -0.4em;
-}
-
-blockquote p {
-    display: inline;
-}
+    text-align: center;
+    display: block;
+    border-width: 2px 0;
+    border-style: solid;
+    border-color: #eee;
+    padding: 1.5em 0 0.5em;
+    margin: 1.5em 0;
+    position: relative;
+  }
+  blockquote:before {
+    content: '\201C';
+    position: absolute;
+    top: 0em;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    width: 3rem;
+    height: 2rem;
+    font-size: 54px;
+    color: #666;
+    text-align: center;
+  }
 
 .btn-circle {
     width: 54px !important;
