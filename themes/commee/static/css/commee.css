@@ -147,6 +147,7 @@ blockquote {
     right: 5%;
     position: fixed;
     background-color: transparent;
+    z-index: 999;
 }
 
 .close-symol {
