@@ -41,7 +41,11 @@ tags:
 
 สำหรับ Android Q beta เราสามารถ Force ให้แอพอื่นๆกลายเป็น Dark mode ได้ด้วยนะ 
 
-ด้วยการเข้าไปที่ Settings > System > Developer options > เปิด Override force-dark แต่พอลองเปิดดูแล้วก็ได้ผลลัพธ์แบบนี้ครับ
+ด้วยการเข้าไปที่ 
+
+> Settings > System > Developer options > Override force-dark 
+
+แต่พอลองเปิดดูแล้วก็ได้ผลลัพธ์แบบนี้ครับ
 
 {{< image-frame class="post-image-frame" src="images/android-q-dark-mode-2.jpg" alt="Android Q beta 5 facebook" image-caption="Android Q beta 5 Facebook">}}
 
