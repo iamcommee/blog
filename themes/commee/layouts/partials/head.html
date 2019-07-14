@@ -2,6 +2,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <meta property="og:url"           content="{{ .Permalink }}" />
+    <meta property="og:type"          content="blog" />
+    <meta property="og:title"         content="{{ .Title }}" />
+    <meta property="og:description"   content="{{ .Page.Description}}" />
+    <meta property="og:image"         content="{{ .Param "cover" }}" />
+
     <title>
         {{- if .IsHome }}
         {{ .Site.Title }}
@@ -16,7 +22,6 @@
     <link rel="stylesheet" href="/css/commee.css">
 
     <!-- Script -->
-
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143707465-1"></script>
     <script>
@@ -29,6 +34,15 @@
 
         gtag('config', 'UA-143707465-1');
     </script>
+
+    <!-- Facebook -->
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
 
     <!-- Favicon -->
 </head>
