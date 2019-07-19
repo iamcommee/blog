@@ -97,11 +97,11 @@ Anne pro 2 with blue switch น่าจะเป็นอะไรที่โ�
 ## เสียง
 * Anne pro 2 with brown switch
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/uE3tbSizTJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/uE3tbSizTJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Anne pro 2 with blue switch
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yhAICIo4tto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/yhAICIo4tto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Software - Obinslab starter
 
