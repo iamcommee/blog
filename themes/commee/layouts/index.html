@@ -25,7 +25,7 @@
             <div class="wrap">
                 <div class="lasted-posts title-md mb-3">LASTED POSTS</div>
                 <div class="row">
-                    {{ range first 12 .Data.Pages }}
+                    {{ range where .Data.Pages "Type" "posts"}}
                     <div class="col-xl-4">
                         <div class="card mb-4 border-0">
                             <a href={{ .Permalink }}><img class="card-img-top" src="{{ .Param "cover" }}"></a>
