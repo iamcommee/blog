@@ -1,0 +1,31 @@
+{
+  "name": "commee.in.th",
+  "version": "1.0.0",
+  "description": "commee.in.th",
+  "author": "commee",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "bootstrap-vue": "^2.1.0",
+    "element-ui": "^2.4.11",
+    "frontmatter-markdown-loader": "^3.1.0",
+    "github-markdown-css": "^3.0.1",
+    "nuxt": "^2.0.0",
+    "vue-disqus": "^3.0.5"
+  },
+  "devDependencies": {
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.4.1",
+    "node-sass": "^4.13.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.0"
+  }
+}

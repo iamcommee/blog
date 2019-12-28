@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Bai+Jamjuree:400,700&display=swap&subset=thai')
+
+.btn-circle
+  width: 54px
+  height: 54px
+  padding: 6px 0px
+  border-radius: 32px
+  text-align: center
+  font-size: 24px
+  border: 1px solid #636463
+.btn-circle:hover
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
+.btn-close
+  bottom: 3%
+  right: 5%
+  position: fixed
+  background-color: transparent
+  z-index: 999
+.content-title
+  font-size: 48px
+  margin: 20px 0px 0px 0px
+.content-detail
+  font-size: 18px
+  margin: 10px 0px 10px 0px
+  text-align: left
+.content
+  font-family: 'Bai Jamjuree', sans-serif
+  font-size: 18px
+  line-height: 42px
+  h1
+    font-weight: bold
+  .post-image
+    margin: 0px 0px 20px 0px
+    width: 100%
+    object-fit: cover
+  .post-image-frame
+    text-align: center;
+    width: 30%
+  .post-gif-image
+    width: 30%
+  .image-caption
+    font-size: 16px
+    color: #636463
+  blockquote
+    text-align: center
+    display: block
+    border-width: 2px 0
+    border-style: solid
+    border-color: #eee
+    padding: 1.5em 0 0.5em
+    margin: 1.5em 0
+    position: relative
+  blockquote:before
+    content: '\201C'
+    position: absolute
+    top: 0em
+    left: 50%
+    transform: translate(-50%, -50%)
+    background: #fff
+    width: 3rem
+    height: 2rem
+    font-size: 54px
+    color: #666
+    text-align: center
+
+@media only screen and (max-width: 767px)
+  .content-title
+    font-size: 24px
+    margin: 20px 0px 0px 0px
+  .content-detail
+    font-size: 14px
+    margin: 10px 0px 10px 0px
+    text-align: left
+  .content
+    h1
+      font-size: 24px
+      font-weight: bold
