@@ -93,5 +93,9 @@ export default {
         optimizationLevel: 3,
       },
       pngquant: false,
+      webp: {
+        preset: 'default',
+        quality: 75,
+      },
   }
 }

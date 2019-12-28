@@ -7,7 +7,7 @@ description: Mechanical keyboard ตัวเล็กแต่ฟีเจอ�
 tags:
 ---
 
-<img class="post-image" src="./images/anne-pro-2.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2.jpg?webp" alt="anne pro 2"/>
 
 สวัสดีครับ หลังจากที่ได้ทดลองใช้เจ้า Anne pro 2 มาเกือบๆ 1 อาทิตย์ วันนี้ก็จะมารีวิวให้ทุกๆท่านได้อ่านกันนะครับ
 
@@ -21,7 +21,7 @@ Anne pro 2 คือ Mechanical keyboard 60% ที่ทำขึ้นโด�
 
 # แกะกล่อง Anne pro 2 
 
-<img class="post-image" src="./images/unbox-anne-pro-2.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/unbox-anne-pro-2.jpg?webp" alt="anne pro 2"/>
 
 # ภายในกล่องประกอบด้วย
 
@@ -43,16 +43,16 @@ Anne pro 2 เป็น Mechanical keyboard ขนาด 60% มี Switch ใ�
 
 งานประกอบโดยรวมค่อนข้างโอเคไม่พบความผิดปกติใดๆ ภายในบรรจุแบต 1900mAh เอาไว้ สามารถใช้ได้ถึง 8 ชั่วโมง !
 
-<img class="post-image" src="./images/anne-pro-2-bw.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2-bw.jpg?webp" alt="anne pro 2"/>
 <p class="image-caption text-center">Anne pro 2 - สีดำ blue switch, สีขาว brown switch</p>
 
-<img class="post-image" src="./images/anne-pro-2-side.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2-side.jpg?webp" alt="anne pro 2"/>
 <p class="image-caption text-center">Anne pro 2 - ด้านข้างเทียบกับ macbook 13'</p>
 
-<img class="post-image" src="./images/anne-pro-2-back.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2-back.jpg?webp" alt="anne pro 2"/>
 <p class="image-caption text-center">Anne pro 2 - ด้านหลัง</p>
 
-<img class="post-image" src="./images/anne-pro-2-under.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2-under.jpg?webp" alt="anne pro 2"/>
 <p class="image-caption text-center">Anne pro 2 - ด้านใต้</p>
 
 # การใช้งาน
@@ -165,6 +165,6 @@ Anne pro 2 มาพร้อม Software ชื่อ Obinslab starter มี�
 
 หรือ กำลังมองหา Mechanical keyboard เริ่มต้น ผมขอแนะนำ Anne pro 2 ครับ :)
 
-<img class="post-image" src="./images/anne-pro-2-end.jpg" alt="anne pro 2"/>
+<img class="post-image" src="./images/anne-pro-2-end.jpg?webp" alt="anne pro 2"/>
 <p class="image-caption text-center">Anne pro 2 :D</p>
 

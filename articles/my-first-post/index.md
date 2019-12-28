@@ -6,7 +6,7 @@ url: /blog/article/my-first-post
 description: "สวัสดีครึ่งปีหลัง เป้าหมายที่ตั้งไว้เป็นยังไงบ้าง :)"
 tags:
 ---
-<img class="post-image" src="./images/IMG_20190515_185221.jpg" alt="สวัสดีครึ่งปีหลัง"/>
+<img class="post-image" src="./images/IMG_20190515_185221.jpg?webp" alt="สวัสดีครึ่งปีหลัง"/>
 
 <br>
 <br>

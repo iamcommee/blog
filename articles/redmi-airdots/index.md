@@ -7,7 +7,7 @@ description: Truly Wireless สบายๆสไตล์ Mi ในราคา
 tags:
 ---
 
-<img class="post-image" src="./images/redmi-airdots.jpg" alt="Redmi airdots"/>
+<img class="post-image" src="./images/redmi-airdots.jpg?webp" alt="Redmi airdots"/>
 <p class="image-caption text-center">น้องชายสั่ง Redmi airdots มา พี่ชายอย่างเราก็เลยจัดการจิ๊กมาเทสซะหน่อย 5555</p>
 
 Redmi airdots คือ หูฟังไร้สาย หรือ Truly Wireless ที่อยู่ภายใต้แบรด์ยักษ์ใหญ่จากจีนนามว่า Xiaomi นั้นเอง 
@@ -24,7 +24,7 @@ Truly Wireless ได้รับความนิยมมากขึ้น�
 
 # แกะกล่อง Redmi airdots
 
-<img class="post-image" src="./images/open-redmi-airdots.jpg" alt="แกะกล่อง Redmi airdots"/>
+<img class="post-image" src="./images/open-redmi-airdots.jpg?webp" alt="แกะกล่อง Redmi airdots"/>
 
 # ภายในกล่อง
 
@@ -44,10 +44,10 @@ Truly Wireless ได้รับความนิยมมากขึ้น�
 
 แบตเตอรี่ในกล่องให้มา 300mAh และพี่แกเคลมว่ารองรับการใช้งานต่ออีก 12 ชั่วโมง เพราะสามารถถอดมาชาร์จในกล่องได้เลย
 
-<img class="post-image" src="./images/case-redmi-airdots.jpg" alt="Case Redmi airdots"/>
+<img class="post-image" src="./images/case-redmi-airdots.jpg?webp" alt="Case Redmi airdots"/>
 <p class="image-caption text-center">Case ด้านบน</p>
 
-<img class="post-image" src="./images/case-back-redmi-airdots.jpg" alt="Back-case Redmi airdots"/>
+<img class="post-image" src="./images/case-back-redmi-airdots.jpg?webp" alt="Back-case Redmi airdots"/>
 <p class="image-caption text-center">Case ด้านหลังจะมีช่อง Micro USB เพื่อเสียบชาร์จ</p>
 
 # หูฟัง
@@ -55,10 +55,10 @@ Truly Wireless ได้รับความนิยมมากขึ้น�
 
 ผมไม่เคยใช้หูฟัง Truly Wireless มาก่อนนะครับ ไม่แน่ใจว่าแบรนด์อื่นเป็นกันไหม เพราะรู้สึกว่าตัวหูฟังมีน้ำหนักที่เบามาก ใส่สบาย,พอดีหูและไม่หลุดง่าย ถึงแม้จะกระโดดโลดเต้นก็ตาม
 
-<img class="post-image" src="./images/body-redmi-airdots.jpg" alt="Body Redmi airdots"/>
+<img class="post-image" src="./images/body-redmi-airdots.jpg?webp" alt="Body Redmi airdots"/>
 <p class="image-caption text-center">Body หูฟัง</p>
 
-<img class="post-image" src="./images/presenter.jpg" alt="Redmi airdots"/>
+<img class="post-image" src="./images/presenter.jpg?webp" alt="Redmi airdots"/>
 <p class="image-caption text-center">พรีเซนเตอร์สุดหล่อน้องผมเองฮะ</p>
 
 # การใช้งาน
@@ -70,7 +70,7 @@ Truly Wireless ได้รับความนิยมมากขึ้น�
 <u>แต่ถ้าเราทำการเชื่อมต่อด้วยหูฟังข้างซ้าย (Redmi AirDots_L) จะเป็นการเชื่อมต่อเพียงข้างเดียวนะครับ ซึ่งเราสามารถแยกการทำงานของมันเพื่อใช้กับ Device อื่นได้</u>
 
 <div class="text-center">
-  <img class="post-image-frame" src="./images/redmi-airdots-on-device.jpg" alt="Redmi airdots on device"/>
+  <img class="post-image-frame" src="./images/redmi-airdots-on-device.jpg?webp" alt="Redmi airdots on device"/>
   <p class="image-caption text-center">การเชื่อมต่อหูฟังจะแสดง % แบตเตอรี่ให้ด้วย</p>
 </div>
 
@@ -96,12 +96,12 @@ Redmi airdots มาพร้อมกับ Bluetooth 5.0 ซึ่งจาก
 
 เมื่อชาร์จเต็มแล้วไฟสถานะจะหายไป
 
-<img class="post-image" src="./images/charge-redmi-airdots.jpg" alt="Charge redmi airdots"/>
+<img class="post-image" src="./images/charge-redmi-airdots.jpg?webp" alt="Charge redmi airdots"/>
 <p class="image-caption text-center">การชาร์จหูฟังจะมีไฟสถานะสีแดงขึ้น</p>
 
 การชาร์จแบตให้กล่องทำได้ด้วยการเสียบสาย Micro USB ด้านหลังกล่อง เมื่อเสียบไปแล้วจะมีไฟสถานะเช่นกัน แต่ผมไม่แน่ใจว่าเราจะดูมันเต็มยังไง 555
 
-<img class="post-image" src="./images/charge-redmi-airdots-box.jpg" alt="Charge redmi airdots"/>
+<img class="post-image" src="./images/charge-redmi-airdots-box.jpg?webp" alt="Charge redmi airdots"/>
 <p class="image-caption text-center">การชาร์จแบตเตอรี่ให้กล่องจะมีไฟสถานะเช่นกัน</p>
 
 # ข้อดี
