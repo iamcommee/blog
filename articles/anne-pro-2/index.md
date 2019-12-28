@@ -3,7 +3,7 @@ title: "REVIEW ANNE PRO 2"
 date: 19/07/2019
 time: 17.06
 url: /blog/article/anne-pro-2
-cover: "/_nuxt/articles/anne-pro-2/images/anne-pro-2.jpg"
+cover: "./images/anne-pro-2.jpg"
 description: Mechanical keyboard ตัวเล็กแต่ฟีเจอร์ไม่เล็กนะ
 tags:
 ---
