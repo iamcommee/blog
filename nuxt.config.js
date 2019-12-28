@@ -46,9 +46,10 @@ export default {
   */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
+    '@bazzite/nuxt-optimized-images',
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
   ],
   /*
   ** Axios module configuration
@@ -79,5 +80,8 @@ export default {
         }
       )
     }
+  },
+    optimizedImages: {
+    optimizeImages: true
   }
 }
