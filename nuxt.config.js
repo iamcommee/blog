@@ -82,6 +82,16 @@ export default {
     }
   },
     optimizedImages: {
-    optimizeImages: true
+      handleImages: ['jpeg', 'png'],
+      defaultImageLoader: 'img-loader',
+      optimizeImages: true,
+      optimizeImagesInDev: true,
+      mozjpeg: {
+        quality: 80,
+      },
+      optipng: {
+        optimizationLevel: 3,
+      },
+      pngquant: false,
   }
 }
