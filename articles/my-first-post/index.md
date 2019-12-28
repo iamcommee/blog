@@ -3,7 +3,6 @@ title: "สวัสดีครึ่งปีหลัง"
 date: 10/07/2019
 time: 00.06
 url: /blog/article/my-first-post
-cover: '/_nuxt/articles/my-first-post/images/IMG_20190515_185221.jpg'
 description: "สวัสดีครึ่งปีหลัง เป้าหมายที่ตั้งไว้เป็นยังไงบ้าง :)"
 tags:
 ---

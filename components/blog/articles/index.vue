@@ -7,7 +7,7 @@
          <nuxt-link :to="article.url">
           <div class="articles-image" :style="{
             'height': '300px',
-            'background-image': 'url(' + article.cover + ')',
+            'background-image': 'url(cover/'+ article.dir + '/cover.jpg)',
             'background-position': 'center',
             'background-size': 'cover'
           }">

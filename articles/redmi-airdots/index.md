@@ -3,12 +3,11 @@ title: "REVIEW REDMI AIRDOTS"
 date: 12/07/19
 time: 22.44
 url: /blog/article/redmi-airdots
-cover: "/_nuxt/articles/redmi-airdots/images/cover.jpg"
 description: Truly Wireless สบายๆสไตล์ Mi ในราคาครึ่งพัน
 tags:
 ---
 
-<img class="post-image" src="./images/cover.jpg" alt="Redmi airdots"/>
+<img class="post-image" src="./images/redmi-airdots.jpg" alt="Redmi airdots"/>
 <p class="image-caption text-center">น้องชายสั่ง Redmi airdots มา พี่ชายอย่างเราก็เลยจัดการจิ๊กมาเทสซะหน่อย 5555</p>
 
 Redmi airdots คือ หูฟังไร้สาย หรือ Truly Wireless ที่อยู่ภายใต้แบรด์ยักษ์ใหญ่จากจีนนามว่า Xiaomi นั้นเอง 
