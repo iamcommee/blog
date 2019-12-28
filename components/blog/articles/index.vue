@@ -4,7 +4,7 @@
   <div class="col-lg-4 col-xs-12 p-2" v-for="(article, index) in articles" :key="index">
     <div class="articles-card">
       <div class="articles-wrap text-center">
-         <a :href="article.url">
+         <nuxt-link :to="article.url">
           <div class="articles-image" :style="{
             'height': '300px',
             'background-image': 'url(cover/'+ article.dir + '/cover.jpg)',
@@ -12,13 +12,13 @@
             'background-size': 'cover'
           }">
           </div>
-        </a>
+        </nuxt-link>
         <div class="articles-content">
-          <a :href="article.url">
+          <nuxt-link :to="article.url">
             <div class="articles-title">
             <b> {{ article.title }} </b>
             </div>
-          </a>
+          </nuxt-link>
           <div class="articles-detail">
             <i class="el-icon-time"></i> {{ article.date }} - {{ article.time }}
           </div>
