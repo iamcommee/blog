@@ -159,4 +159,22 @@ blockquote:before {
     z-index: 999;
 }
 
+@media only screen and (max-width: 767px) {
+    .content-title {
+        font-size: 24px;
+        margin: 20px 0px 0px 0px;
+    }
+
+    .content-detail {
+        font-size: 14px;
+        margin: 10px 0px 10px 0px;
+        text-align: left;
+    }
+
+    .content>h1 {
+        font-size: 24px;
+        font-weight: bold;
+    }
+}
+
 /* end article content */
