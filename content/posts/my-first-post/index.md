@@ -2,7 +2,7 @@
 title: "สวัสดีครึ่งปีหลัง"
 date: 2019-07-10T23:55:36+07:00
 url: /2019/07/10/my-first-post
-cover: /2019/07/10/my-first-post/images/IMG_20190515_185221.jpg
+cover: images/IMG_20190515_185221.jpg
 description: "สวัสดีครึ่งปีหลัง เป้าหมายที่ตั้งไว้เป็นยังไงบ้าง :)"
 tags:
 ---

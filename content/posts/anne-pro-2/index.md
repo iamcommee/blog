@@ -2,7 +2,7 @@
 title: "REVIEW ANNE PRO 2"
 date: 2019-07-19T10:06:45+07:00
 url: /2019/07/14/anne-pro-2
-cover: /2019/07/14/anne-pro-2/images/cover.jpg
+cover: images/cover.jpg
 description: Mechanical keyboard ตัวเล็กแต่ฟีเจอร์ไม่เล็กนะ
 tags:
 ---

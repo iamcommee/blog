@@ -2,7 +2,7 @@
 title: "REVIEW REDMI AIRDOTS"
 date: 2019-07-12T15:44:29+07:00
 url: /2019/07/12/redmi-airdots
-cover: /2019/07/12/redmi-airdots/images/cover.jpg
+cover: images/cover.jpg
 description: Truly Wireless สบายๆสไตล์ Mi ในราคาครึ่งพัน
 tags:
 ---
