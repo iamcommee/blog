@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+        {{ range where .Site.RegularPages "Type" "posts"}}
+        <div class="col-lg-4 col-xs-12 p-2">
+            <div class="articles-card">
+                <div class="articles-wrap text-center">
+                    <a href={{ .Permalink }}><img class="articles-image" src="{{ .Param "cover" }}"></a>
+                    <div class="articles-content">
+                        <div class="articles-title">
+                            <a href={{ .Permalink }}><b> {{ .Title }} </b></a>
+                        </div>
+                        <div class="articles-detail">
+                            <i class="el-icon-time"></i> {{ .Date.Format "02 January 2006 15:04" }}
+                        </div>
+                        <div class="article-description">
+                            {{ .Description }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
