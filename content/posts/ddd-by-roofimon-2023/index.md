@@ -236,14 +236,14 @@ class PatientProfile : Entity
     public void doSomething(){...}
 }
 ...
-class Weight : ValueObject
+class Age : ValueObject
 {
     ...
-    public Weight(int w)
+    public Age(int a)
     {
         Validation logic (Optional)
         ...
-        this.Weight = w;
+        this.age = a;
     }
 }
 ```
