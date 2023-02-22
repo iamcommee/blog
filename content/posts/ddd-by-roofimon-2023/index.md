@@ -1,10 +1,9 @@
 ---
-title: "Learning Domain Driven Design สบายๆ สไตล์ รูฟรูฟ"
-date: 2023-02-22
-url: /learning-domain-driven-design-by-roofimon-2023
-cover: images/PXL_20230209_022646645.jpg
-description: Mechanical keyboard ตัวเล็กแต่ฟีเจอร์ไม่เล็กนะ
-tags:
+author: "iamcommee"
+title: "Domain Driven Design สบายๆ สไตล์ รูฟรูฟ"
+date: "2023-02-22"
+tags: ["DDD"]
+ShowToc: true
 ---
 
 ## Learning Domain Driven Design

@@ -1,0 +1,38 @@
+baseURL: https://blog.iamcommee.me/
+languageCode: en-us
+title: iamcommee
+theme: PaperMod
+
+enableRobotsTXT: true
+googleAnalytics: UA-143707465-1
+
+params:
+  env: production
+
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+
+  homeInfoParams:
+      Title: "Hi, I am commee 😼"
+      Content: "Welcome to my lazy blog ~"
+
+  socialIcons:
+      - name: "profile"
+        url: "https://iamcommee.me/"
+      - name: "github"
+        url: "https://github.com/iamcommee"
+      - name: "facebook"
+        url: "https://www.facebook.com/iamcommee/"
+
+  comments: true
+
+  assets:
+    favicon: "https://iamcommee.me/favicon.ico"
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
