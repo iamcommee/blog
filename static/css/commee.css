@@ -5,3 +5,14 @@
     margin: auto;
     padding: var(--gap);
 }
+
+.post-image {
+    transition: all 0.3s ease-in-out;
+    /* smooth transition effect */
+}
+
+.post-image:hover,
+.post-image:active {
+    transform: scale(1.7);
+    /* zoom in effect */
+}
