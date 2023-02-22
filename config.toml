@@ -1,4 +1,4 @@
-baseURL = "https://www.commee.in.th"
+baseURL = "https://blog.iamcommee.me"
 languageCode = "th"
-title = "commee.in.th"
+title = "blog.iamcommee.me"
 theme = "commee"
