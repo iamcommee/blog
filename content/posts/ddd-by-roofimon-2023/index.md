@@ -38,7 +38,7 @@ ShowToc: true
 
 {{< image-frame class="post-image" src="images/819gVKYN7HL._AC_UF1000,1000_QL80_.jpg" alt="" style="width: 300px">}}
 
-ในคอร์สนี้ใช้หนังสือเล่มนี้เป็นหลักซึ่งเราสามารถแบ่งเนื้อหาได้ดังนี้
+ในคอร์สนี้ใช้หนังสือเล่มนี้เป็นหลัก(พี่รูฟแจก)ซึ่งเราสามารถแบ่งเนื้อหาได้ดังนี้
 
 - DDD Concepts
 - DDD Strategic Design + Workshop
