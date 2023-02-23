@@ -6,15 +6,13 @@
     padding: var(--gap);
 }
 
-@media (min-width:1023px) {
+/* @media (min-width:1023px) {
     .post-image {
         transition: all 0.3s ease-in-out;
-        /* smooth transition effect */
     }
 
     .post-image:hover,
     .post-image:active {
         transform: scale(1.65);
-        /* zoom in effect */
     }
-}
+} */
